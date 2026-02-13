@@ -186,7 +186,7 @@ streamlit run app.py
 
 ## Author
 
-Kshitij Pardeshi
+Kshitij Pardeshi,
 Manmohan Bora
 (MSc Data Science and Big Data Analytics)
 
